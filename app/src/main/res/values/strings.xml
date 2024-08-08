@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="Title_Head">Exercises</string>
+    <string name="title_1">Planks</string>
+    <string name="title_2">Side Planks</string>
+    <string name="title_3">Burpees</string>
+    <string name="title_4">Tricep Dip</string>
+    <string name="title_5">Glute Bridge</string>
+    <string name="title_6">Mountain Climb</string>
+    <string name="title_7">Superman</string>
+    <string name="title_8">Lunges</string>
+    <string name="title_9">BodyWeight Squats</string>
+    <string name="title_10">Push-Ups</string>
+    <string name="How_to">Steps to Perform:</string>
+    <string name="desc_1"># Start face down, elbows by sides, palms flat.
+        \n# Engage core and glutes, lift body on forearms and toes.
+        \n# Keep a straight line from head to heels.
+        \n# Hold plank, maintain form, glutes tense.
+        \n# Lower back down with control to starting position.
+</string>
+    <string name="desc_2"># Lie on your right side, forearm down, align shoulder over elbow.
+        \n# Keep body in a straight line from shoulders to knees.
+        \n# Left arm rests along your body.
+        \n# Engage abs, relax shoulders, elongate spine.
+        \n# Lift into side plank, hold 10 seconds to 1 minute.
+        \n# Lower down, switch to left side, and repeat.
+</string>
+    <string name="desc_3"># Begin in a squat, back straight, feet shoulder-width.
+        \n# Place hands on the floor inside feet.
+        \n# Jump feet back into pushup position, weight on hands.
+        \n# Perform a pushup, keeping body straight.
+        \n# Jump feet back to squat position.
+        \n# Stand, lifting arms overhead.
+        \n# Jump up, then land back in squat.
+        \n# Repeat the sequence.
+</string>
+    <string name="desc_4">#Place your hands behind you onto a chair, so that your fingers face forward.
+        \n# Extend your legs and start bending your elbows.
+        \n# Lower your body until your arms are at a 90-degree angle.
+        \n# Lift your body back up until your arms are straight.
+        \n# Repeat.</string>
+    <string name="desc_5"># Begin on your back, knees bent, feet flat.
+        \n# Lift hips, squeeze glutes, straight line from knees to shoulders.
+        \n# Hold position, then lower back down.
+        \n# Repeat the movement.
+</string>
+    <string name="desc_6"># Start in plank, balance weight on hands and toes.
+        \n# Ensure hands shoulder-width, back flat, abs tight, head aligned.
+        \n# Drive right knee to chest, then switch legs.
+        \n# Alternate knees quickly, keeping hips steady.
+        \n# Breathe in and out with each leg change.
+</string>
+    <string name="desc_7"># Lie face down, arms forward.
+        \n# Lift head, right arm, left leg slightly.
+        \n# Hold for 3 seconds, lower gently.
+        \n# Repeat with left arm, right leg.
+</string>
+    <string name="desc_8"># Stand tall with feet hip-width apart, core engaged, shoulders relaxed.
+        \n# Step forward with one foot, heel first, keeping upper body upright.
+        \n# Lower body by bending knees, front thigh parallel to ground, back knee just above floor.
+        \n# Ensure front knee is above ankle, not past toes.
+        \n# Push through front heel to return to start, keeping weight centered.
+        \n# Step forward with opposite foot, repeat lunge on other side.
+        \n# Perform equal reps on each leg for balance and symmetry.
+</string>
+    <string name="desc_9"># Stand shoulder-width, head up, shoulders back, core engaged.
+        \n# Inhale, bend knees, push hips back into squat, weight on heels.
+        \n# Exhale, push through heels to stand, maintain upright posture.
+        \n# Repeat for the desired number of reps.
+</string>
+    <string name="desc_10"># Start with hands just beyond shoulder-width.
+        \n# Form a straight line from head to feet, engage core.
+        \n# Inhale, lower down until chest touches floor.
+        \n# Exhale, push up to straight arms.
+        \n# Repeat for the desired number of reps.
+</string>
+    <string name="desc_1h">10 sets x Hold for 30.sec</string>
+    <string name="desc_2h"> 10 sets x Hold for 30.sec (each side)</string>
+    <string name="desc_3h">10 sets x 12 reps</string>
+    <string name="desc_4h">10 sets x 12 reps</string>
+    <string name="desc_5h">10 sets x 12 reps</string>
+    <string name="desc_6h">10 sets x 12 reps (each leg)</string>
+    <string name="desc_7h">10 sets x Hold for 20 seconds</string>
+    <string name="desc_8h">10 sets x 12 reps (each leg)</string>
+    <string name="desc_9h">10 sets x 12 reps</string>
+    <string name="desc_10h">10 sets x 12 reps</string>
+</resources>
